@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sam-snacks-app/static/css/main.2b6800e3.chunk.css",
-    "main.js": "/sam-snacks-app/static/js/main.99a0b22e.chunk.js",
-    "main.js.map": "/sam-snacks-app/static/js/main.99a0b22e.chunk.js.map",
+    "main.js": "/sam-snacks-app/static/js/main.d9b6d6c0.chunk.js",
+    "main.js.map": "/sam-snacks-app/static/js/main.d9b6d6c0.chunk.js.map",
     "runtime-main.js": "/sam-snacks-app/static/js/runtime-main.b37853d0.js",
     "runtime-main.js.map": "/sam-snacks-app/static/js/runtime-main.b37853d0.js.map",
     "static/css/2.194251d9.chunk.css": "/sam-snacks-app/static/css/2.194251d9.chunk.css",
     "static/js/2.8735ac2f.chunk.js": "/sam-snacks-app/static/js/2.8735ac2f.chunk.js",
     "static/js/2.8735ac2f.chunk.js.map": "/sam-snacks-app/static/js/2.8735ac2f.chunk.js.map",
     "index.html": "/sam-snacks-app/index.html",
-    "precache-manifest.23c5f6988bc70e468c801661f7c3d96d.js": "/sam-snacks-app/precache-manifest.23c5f6988bc70e468c801661f7c3d96d.js",
+    "precache-manifest.daf81d41d79d800a3214d9feb9dc41d9.js": "/sam-snacks-app/precache-manifest.daf81d41d79d800a3214d9feb9dc41d9.js",
     "service-worker.js": "/sam-snacks-app/service-worker.js",
     "static/css/2.194251d9.chunk.css.map": "/sam-snacks-app/static/css/2.194251d9.chunk.css.map",
     "static/css/main.2b6800e3.chunk.css.map": "/sam-snacks-app/static/css/main.2b6800e3.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.194251d9.chunk.css",
     "static/js/2.8735ac2f.chunk.js",
     "static/css/main.2b6800e3.chunk.css",
-    "static/js/main.99a0b22e.chunk.js"
+    "static/js/main.d9b6d6c0.chunk.js"
   ]
 }
