@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7775c5c3c39a74ebe27522f93e92961",
+    "revision": "02777c1e43a5cc2fd88ed07938630d72",
     "url": "/sam-snacks-app/index.html"
   },
   {
