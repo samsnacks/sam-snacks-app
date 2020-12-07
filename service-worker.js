@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sam-snacks-app/precache-manifest.0ef6e83594b734929c503562f046c911.js"
+  "/sam-snacks-app/precache-manifest.d06b5e2bbed9e8455ee9089edd7a3529.js"
 );
 
 self.addEventListener('message', (event) => {
